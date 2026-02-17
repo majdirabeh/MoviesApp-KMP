@@ -8,11 +8,11 @@ L'application est conçue pour fonctionner sur **Android**, **iOS** et **Desktop
 
 List Movies
 
-<img src="https://github.com/majdirabeh/MoviesApp-KMP/blob/master/Screenshots/Capture1.png" style=" width:100px ; height:150px " />
+<img src="Screenshots/Capture1.png" style="width: 250px;" />
 
 Movie Detail
 
-<img src="https://github.com/majdirabeh/MoviesApp-KMP/blob/master/Screenshots/Capture2.png" style=" width:100px ; height:150px " />
+<img src="Screenshots/Capture2.png" style="width: 250px;" />
 
 
 ## ✨ Fonctionnalités
